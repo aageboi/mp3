@@ -176,15 +176,15 @@ $text = '<?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet href="https://guyub.id/rss/styles.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-	<atom:link href="https://guyub.id/dzikir-doa.rss" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raw.githubusercontent.com/aageboi/mp3/master/dzikir-doa.rss" rel="self" type="application/rss+xml" />
 	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 	<title>Kumpulan Dzikir dan Doa</title>
 	<lastBuildDate>Sun, 12 Jun 2022 20:30:24 +0700</lastBuildDate>
-	<link>https://guyub.id/kumpulan-dzikir-dan-doa</link>
+	<link>https://github.com/aageboi/mp3</link>
 	<language>ar</language>
 	<copyright>© 2022 Heri Gunawan</copyright>
 	<podcast:locked owner="aageboi@gmail.com">yes</podcast:locked>
-	<podcast:guid>0ca73493-dfcf-5797-808d-476bc429b799</podcast:guid>
+	<podcast:guid>0ca73493-dfcf-5797-808d-476bc429b798</podcast:guid>
 	<itunes:author>Islamic Content</itunes:author>
 	<itunes:type>episodic</itunes:type>
 	<itunes:explicit>false</itunes:explicit>
@@ -194,11 +194,11 @@ $text = '<?xml version="1.0" encoding="UTF-8" ?>
 		<itunes:email>aageboi@gmail.com</itunes:email>
 	</itunes:owner>
   <image>
-	 <url>https://storage.buzzsprout.com/variants/k3opya2otnut7q4b3iybnpb6dyek/6861a7550229613e3387373f20ad829ba4bc5767dd8eb92e70a0abe304d4e657.jpeg</url>
+	 <url>https://raw.githubusercontent.com/aageboi/mp3/master/masjid-maba-QhzQfD0ihnI-unsplash.jpg</url>
 	 <title>Kumpulan Dzikir dan Doa</title>
 	 <link></link>
   </image>
-  <itunes:image href="https://storage.buzzsprout.com/variants/k3opya2otnut7q4b3iybnpb6dyek/6861a7550229613e3387373f20ad829ba4bc5767dd8eb92e70a0abe304d4e657.jpeg" />
+  <itunes:image href="https://raw.githubusercontent.com/aageboi/mp3/master/masjid-maba-QhzQfD0ihnI-unsplash.jpg" />
   <itunes:category text="Religion &amp; Spirituality">
 	<itunes:category text="Islam" />
   </itunes:category>' . PHP_EOL;
